@@ -1,6 +1,6 @@
 My Rails Wizard template (http://railswizard.org)
 
-Origin: [http://railswizard.org/b9244e6f7f8a28550ea5.rb][http://railswizard.org/b9244e6f7f8a28550ea5.rb]
+Origin: [http://railswizard.org/b9244e6f7f8a28550ea5.rb](http://railswizard.org/b9244e6f7f8a28550ea5.rb)
 
 Uses:
 
